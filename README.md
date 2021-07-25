@@ -8,8 +8,6 @@ this project is a practice prioject for lab 16 of 401 course at asac , from lab 
 
 Deploy a Node.js server to AWS EC2
 
-![NML](./lab16.jpg)
-
 ---
 
 - ### [pull request](https://github.com/hibasalem/cloud-server/pull/1)
@@ -17,6 +15,10 @@ Deploy a Node.js server to AWS EC2
 - ### deploy links
 
   - [GUI deploy link](http://cloudserver-env.eba-eiv77qmg.us-east-1.elasticbeanstalk.com/)
+
+
+![NML](./lab16.jpg)
+
 
 - ### getting this app
 
